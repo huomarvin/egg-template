@@ -1,0 +1,352 @@
+{
+  "keys": "/Users/marvin/Documents/Git/egg-template/config/config.default.ts",
+  "middleware": "/Users/marvin/Documents/Git/egg-template/config/config.default.ts",
+  "swaggerdoc": {
+    "dirScanner": "/Users/marvin/Documents/Git/egg-template/config/config.default.ts",
+    "apiInfo": {
+      "title": "/Users/marvin/Documents/Git/egg-template/config/config.default.ts",
+      "description": "/Users/marvin/Documents/Git/egg-template/config/config.default.ts",
+      "version": "/Users/marvin/Documents/Git/egg-template/config/config.default.ts"
+    },
+    "schemes": "/Users/marvin/Documents/Git/egg-template/config/config.default.ts",
+    "consumes": "/Users/marvin/Documents/Git/egg-template/config/config.default.ts",
+    "produces": "/Users/marvin/Documents/Git/egg-template/config/config.default.ts",
+    "enableSecurity": "/Users/marvin/Documents/Git/egg-template/config/config.default.ts",
+    "routerMap": "/Users/marvin/Documents/Git/egg-template/config/config.default.ts",
+    "enable": "/Users/marvin/Documents/Git/egg-template/config/config.default.ts",
+    "basePath": "/Users/marvin/Documents/Git/egg-template/node_modules/egg-swagger-doc-feat/config/config.default.js",
+    "securityDefinitions": "/Users/marvin/Documents/Git/egg-template/node_modules/egg-swagger-doc-feat/config/config.default.js",
+    "type": "/Users/marvin/Documents/Git/egg-template/node_modules/egg-swagger-doc-feat/config/config.default.js",
+    "itemType": "/Users/marvin/Documents/Git/egg-template/node_modules/egg-swagger-doc-feat/config/config.default.js"
+  },
+  "mongoose": {
+    "url": "/Users/marvin/Documents/Git/egg-template/config/config.default.ts",
+    "options": {
+      "useNewUrlParser": "/Users/marvin/Documents/Git/egg-template/config/config.default.ts",
+      "autoReconnect": "/Users/marvin/Documents/Git/egg-template/config/config.default.ts",
+      "reconnectTries": "/Users/marvin/Documents/Git/egg-template/config/config.default.ts",
+      "bufferMaxEntries": "/Users/marvin/Documents/Git/egg-template/config/config.default.ts"
+    },
+    "plugins": "/Users/marvin/Documents/Git/egg-template/node_modules/egg-mongoose/config/config.default.js",
+    "loadModel": "/Users/marvin/Documents/Git/egg-template/node_modules/egg-mongoose/config/config.default.js",
+    "app": "/Users/marvin/Documents/Git/egg-template/node_modules/egg-mongoose/config/config.default.js",
+    "agent": "/Users/marvin/Documents/Git/egg-template/node_modules/egg-mongoose/config/config.default.js"
+  },
+  "sourceUrl": "/Users/marvin/Documents/Git/egg-template/config/config.default.ts",
+  "session": {
+    "maxAge": "/Users/marvin/Documents/Git/egg-template/node_modules/egg-session/config/config.default.js",
+    "key": "/Users/marvin/Documents/Git/egg-template/node_modules/egg-session/config/config.default.js",
+    "httpOnly": "/Users/marvin/Documents/Git/egg-template/node_modules/egg-session/config/config.default.js",
+    "encrypt": "/Users/marvin/Documents/Git/egg-template/node_modules/egg-session/config/config.default.js"
+  },
+  "security": {
+    "domainWhiteList": "/Users/marvin/Documents/Git/egg-template/node_modules/egg-security/config/config.default.js",
+    "protocolWhiteList": "/Users/marvin/Documents/Git/egg-template/node_modules/egg-security/config/config.default.js",
+    "defaultMiddleware": "/Users/marvin/Documents/Git/egg-template/node_modules/egg-security/config/config.default.js",
+    "csrf": {
+      "enable": "/Users/marvin/Documents/Git/egg-template/node_modules/egg-swagger-doc-feat/config/config.default.js",
+      "type": "/Users/marvin/Documents/Git/egg-template/node_modules/egg-security/config/config.default.js",
+      "ignoreJSON": "/Users/marvin/Documents/Git/egg-template/node_modules/egg-security/config/config.default.js",
+      "useSession": "/Users/marvin/Documents/Git/egg-template/node_modules/egg-security/config/config.default.js",
+      "cookieName": "/Users/marvin/Documents/Git/egg-template/node_modules/egg-security/config/config.default.js",
+      "sessionName": "/Users/marvin/Documents/Git/egg-template/node_modules/egg-security/config/config.default.js",
+      "headerName": "/Users/marvin/Documents/Git/egg-template/node_modules/egg-security/config/config.default.js",
+      "bodyName": "/Users/marvin/Documents/Git/egg-template/node_modules/egg-security/config/config.default.js",
+      "queryName": "/Users/marvin/Documents/Git/egg-template/node_modules/egg-security/config/config.default.js",
+      "refererWhiteList": "/Users/marvin/Documents/Git/egg-template/node_modules/egg-security/config/config.default.js"
+    },
+    "xframe": {
+      "enable": "/Users/marvin/Documents/Git/egg-template/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/marvin/Documents/Git/egg-template/node_modules/egg-security/config/config.default.js"
+    },
+    "hsts": {
+      "enable": "/Users/marvin/Documents/Git/egg-template/node_modules/egg-security/config/config.local.js",
+      "maxAge": "/Users/marvin/Documents/Git/egg-template/node_modules/egg-security/config/config.default.js",
+      "includeSubdomains": "/Users/marvin/Documents/Git/egg-template/node_modules/egg-security/config/config.default.js"
+    },
+    "dta": {
+      "enable": "/Users/marvin/Documents/Git/egg-template/node_modules/egg-security/config/config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "/Users/marvin/Documents/Git/egg-template/node_modules/egg-security/config/config.default.js"
+    },
+    "noopen": {
+      "enable": "/Users/marvin/Documents/Git/egg-template/node_modules/egg-security/config/config.default.js"
+    },
+    "nosniff": {
+      "enable": "/Users/marvin/Documents/Git/egg-template/node_modules/egg-security/config/config.default.js"
+    },
+    "referrerPolicy": {
+      "enable": "/Users/marvin/Documents/Git/egg-template/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/marvin/Documents/Git/egg-template/node_modules/egg-security/config/config.default.js"
+    },
+    "xssProtection": {
+      "enable": "/Users/marvin/Documents/Git/egg-template/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/marvin/Documents/Git/egg-template/node_modules/egg-security/config/config.default.js"
+    },
+    "csp": {
+      "enable": "/Users/marvin/Documents/Git/egg-template/node_modules/egg-security/config/config.default.js",
+      "policy": "/Users/marvin/Documents/Git/egg-template/node_modules/egg-security/config/config.default.js"
+    },
+    "ssrf": {
+      "ipBlackList": "/Users/marvin/Documents/Git/egg-template/node_modules/egg-security/config/config.default.js",
+      "checkAddress": "/Users/marvin/Documents/Git/egg-template/node_modules/egg-security/config/config.default.js"
+    }
+  },
+  "helper": {
+    "shtml": "/Users/marvin/Documents/Git/egg-template/node_modules/egg-security/config/config.default.js"
+  },
+  "jsonp": {
+    "limit": "/Users/marvin/Documents/Git/egg-template/node_modules/egg-jsonp/config/config.default.js",
+    "callback": "/Users/marvin/Documents/Git/egg-template/node_modules/egg-jsonp/config/config.default.js",
+    "csrf": "/Users/marvin/Documents/Git/egg-template/node_modules/egg-jsonp/config/config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "/Users/marvin/Documents/Git/egg-template/node_modules/egg-onerror/config/config.default.js",
+    "appErrorFilter": "/Users/marvin/Documents/Git/egg-template/node_modules/egg-onerror/config/config.default.js",
+    "templatePath": "/Users/marvin/Documents/Git/egg-template/node_modules/egg-onerror/config/config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "/Users/marvin/Documents/Git/egg-template/node_modules/egg-i18n/config/config.default.js",
+    "dirs": "/Users/marvin/Documents/Git/egg-template/node_modules/egg-i18n/config/config.default.js",
+    "queryField": "/Users/marvin/Documents/Git/egg-template/node_modules/egg-i18n/config/config.default.js",
+    "cookieField": "/Users/marvin/Documents/Git/egg-template/node_modules/egg-i18n/config/config.default.js",
+    "cookieDomain": "/Users/marvin/Documents/Git/egg-template/node_modules/egg-i18n/config/config.default.js",
+    "cookieMaxAge": "/Users/marvin/Documents/Git/egg-template/node_modules/egg-i18n/config/config.default.js"
+  },
+  "watcher": {
+    "type": "/Users/marvin/Documents/Git/egg-template/node_modules/egg-watcher/config/config.local.js",
+    "eventSources": {
+      "default": "/Users/marvin/Documents/Git/egg-template/node_modules/egg-watcher/config/config.default.js",
+      "development": "/Users/marvin/Documents/Git/egg-template/node_modules/egg-watcher/config/config.default.js"
+    }
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "/Users/marvin/Documents/Git/egg-template/node_modules/egg-schedule/config/config.default.js",
+      "file": "/Users/marvin/Documents/Git/egg-template/node_modules/egg-schedule/config/config.default.js"
+    }
+  },
+  "schedule": {
+    "directory": "/Users/marvin/Documents/Git/egg-template/node_modules/egg-schedule/config/config.default.js"
+  },
+  "multipart": {
+    "mode": "/Users/marvin/Documents/Git/egg-template/node_modules/egg-multipart/config/config.default.js",
+    "autoFields": "/Users/marvin/Documents/Git/egg-template/node_modules/egg-multipart/config/config.default.js",
+    "defaultCharset": "/Users/marvin/Documents/Git/egg-template/node_modules/egg-multipart/config/config.default.js",
+    "fieldNameSize": "/Users/marvin/Documents/Git/egg-template/node_modules/egg-multipart/config/config.default.js",
+    "fieldSize": "/Users/marvin/Documents/Git/egg-template/node_modules/egg-multipart/config/config.default.js",
+    "fields": "/Users/marvin/Documents/Git/egg-template/node_modules/egg-multipart/config/config.default.js",
+    "fileSize": "/Users/marvin/Documents/Git/egg-template/node_modules/egg-multipart/config/config.default.js",
+    "files": "/Users/marvin/Documents/Git/egg-template/node_modules/egg-multipart/config/config.default.js",
+    "fileExtensions": "/Users/marvin/Documents/Git/egg-template/node_modules/egg-multipart/config/config.default.js",
+    "whitelist": "/Users/marvin/Documents/Git/egg-template/node_modules/egg-multipart/config/config.default.js",
+    "tmpdir": "/Users/marvin/Documents/Git/egg-template/node_modules/egg-multipart/config/config.default.js",
+    "cleanSchedule": {
+      "cron": "/Users/marvin/Documents/Git/egg-template/node_modules/egg-multipart/config/config.default.js"
+    }
+  },
+  "development": {
+    "watchDirs": "/Users/marvin/Documents/Git/egg-template/node_modules/egg-development/config/config.default.js",
+    "ignoreDirs": "/Users/marvin/Documents/Git/egg-template/node_modules/egg-development/config/config.default.js",
+    "fastReady": "/Users/marvin/Documents/Git/egg-template/node_modules/egg-development/config/config.default.js",
+    "reloadOnDebug": "/Users/marvin/Documents/Git/egg-template/node_modules/egg-development/config/config.default.js",
+    "overrideDefault": "/Users/marvin/Documents/Git/egg-template/node_modules/egg-development/config/config.default.js",
+    "overrideIgnore": "/Users/marvin/Documents/Git/egg-template/node_modules/egg-development/config/config.default.js"
+  },
+  "logrotator": {
+    "filesRotateByHour": "/Users/marvin/Documents/Git/egg-template/node_modules/egg-logrotator/config/config.default.js",
+    "hourDelimiter": "/Users/marvin/Documents/Git/egg-template/node_modules/egg-logrotator/config/config.default.js",
+    "filesRotateBySize": "/Users/marvin/Documents/Git/egg-template/node_modules/egg-logrotator/config/config.default.js",
+    "maxFileSize": "/Users/marvin/Documents/Git/egg-template/node_modules/egg-logrotator/config/config.default.js",
+    "maxFiles": "/Users/marvin/Documents/Git/egg-template/node_modules/egg-logrotator/config/config.default.js",
+    "rotateDuration": "/Users/marvin/Documents/Git/egg-template/node_modules/egg-logrotator/config/config.default.js",
+    "maxDays": "/Users/marvin/Documents/Git/egg-template/node_modules/egg-logrotator/config/config.default.js"
+  },
+  "static": {
+    "prefix": "/Users/marvin/Documents/Git/egg-template/node_modules/egg-static/config/config.default.js",
+    "dir": "/Users/marvin/Documents/Git/egg-template/node_modules/egg-static/config/config.default.js",
+    "dynamic": "/Users/marvin/Documents/Git/egg-template/node_modules/egg-static/config/config.default.js",
+    "preload": "/Users/marvin/Documents/Git/egg-template/node_modules/egg-static/config/config.default.js",
+    "buffer": "/Users/marvin/Documents/Git/egg-template/node_modules/egg-static/config/config.default.js",
+    "maxFiles": "/Users/marvin/Documents/Git/egg-template/node_modules/egg-static/config/config.default.js"
+  },
+  "view": {
+    "root": "/Users/marvin/Documents/Git/egg-template/node_modules/egg-view/config/config.default.js",
+    "cache": "/Users/marvin/Documents/Git/egg-template/node_modules/egg-view/config/config.local.js",
+    "defaultExtension": "/Users/marvin/Documents/Git/egg-template/node_modules/egg-view/config/config.default.js",
+    "defaultViewEngine": "/Users/marvin/Documents/Git/egg-template/node_modules/egg-view/config/config.default.js",
+    "mapping": "/Users/marvin/Documents/Git/egg-template/node_modules/egg-view/config/config.default.js"
+  },
+  "validate": "/Users/marvin/Documents/Git/egg-template/node_modules/egg-validate/config/config.default.js",
+  "bcrypt": {
+    "saltRounds": "/Users/marvin/Documents/Git/egg-template/node_modules/egg-bcrypt/config/config.default.js"
+  },
+  "jwt": {
+    "secret": "/Users/marvin/Documents/Git/egg-template/node_modules/egg-jwt/config/config.default.js",
+    "enable": "/Users/marvin/Documents/Git/egg-template/node_modules/egg-jwt/config/config.default.js"
+  },
+  "env": "/Users/marvin/Documents/Git/egg-template/node_modules/egg/config/config.default.js",
+  "name": "/Users/marvin/Documents/Git/egg-template/node_modules/egg/config/config.default.js",
+  "cookies": "/Users/marvin/Documents/Git/egg-template/node_modules/egg/config/config.default.js",
+  "proxy": "/Users/marvin/Documents/Git/egg-template/node_modules/egg/config/config.default.js",
+  "maxIpsCount": "/Users/marvin/Documents/Git/egg-template/node_modules/egg/config/config.default.js",
+  "maxProxyCount": "/Users/marvin/Documents/Git/egg-template/node_modules/egg/config/config.default.js",
+  "protocolHeaders": "/Users/marvin/Documents/Git/egg-template/node_modules/egg/config/config.default.js",
+  "ipHeaders": "/Users/marvin/Documents/Git/egg-template/node_modules/egg/config/config.default.js",
+  "hostHeaders": "/Users/marvin/Documents/Git/egg-template/node_modules/egg/config/config.default.js",
+  "pkg": {
+    "name": "/Users/marvin/Documents/Git/egg-template/node_modules/egg/config/config.default.js",
+    "version": "/Users/marvin/Documents/Git/egg-template/node_modules/egg/config/config.default.js",
+    "description": "/Users/marvin/Documents/Git/egg-template/node_modules/egg/config/config.default.js",
+    "private": "/Users/marvin/Documents/Git/egg-template/node_modules/egg/config/config.default.js",
+    "egg": {
+      "typescript": "/Users/marvin/Documents/Git/egg-template/node_modules/egg/config/config.default.js",
+      "declarations": "/Users/marvin/Documents/Git/egg-template/node_modules/egg/config/config.default.js"
+    },
+    "scripts": {
+      "start": "/Users/marvin/Documents/Git/egg-template/node_modules/egg/config/config.default.js",
+      "stop": "/Users/marvin/Documents/Git/egg-template/node_modules/egg/config/config.default.js",
+      "dev": "/Users/marvin/Documents/Git/egg-template/node_modules/egg/config/config.default.js",
+      "debug": "/Users/marvin/Documents/Git/egg-template/node_modules/egg/config/config.default.js",
+      "test-local": "/Users/marvin/Documents/Git/egg-template/node_modules/egg/config/config.default.js",
+      "test": "/Users/marvin/Documents/Git/egg-template/node_modules/egg/config/config.default.js",
+      "cov": "/Users/marvin/Documents/Git/egg-template/node_modules/egg/config/config.default.js",
+      "tsc": "/Users/marvin/Documents/Git/egg-template/node_modules/egg/config/config.default.js",
+      "ci": "/Users/marvin/Documents/Git/egg-template/node_modules/egg/config/config.default.js",
+      "autod": "/Users/marvin/Documents/Git/egg-template/node_modules/egg/config/config.default.js",
+      "lint": "/Users/marvin/Documents/Git/egg-template/node_modules/egg/config/config.default.js",
+      "clean": "/Users/marvin/Documents/Git/egg-template/node_modules/egg/config/config.default.js"
+    },
+    "dependencies": {
+      "await-stream-ready": "/Users/marvin/Documents/Git/egg-template/node_modules/egg/config/config.default.js",
+      "egg": "/Users/marvin/Documents/Git/egg-template/node_modules/egg/config/config.default.js",
+      "egg-bcrypt": "/Users/marvin/Documents/Git/egg-template/node_modules/egg/config/config.default.js",
+      "egg-jwt": "/Users/marvin/Documents/Git/egg-template/node_modules/egg/config/config.default.js",
+      "egg-mongoose": "/Users/marvin/Documents/Git/egg-template/node_modules/egg/config/config.default.js",
+      "egg-scripts": "/Users/marvin/Documents/Git/egg-template/node_modules/egg/config/config.default.js",
+      "egg-swagger-doc-feat": "/Users/marvin/Documents/Git/egg-template/node_modules/egg/config/config.default.js",
+      "egg-validate": "/Users/marvin/Documents/Git/egg-template/node_modules/egg/config/config.default.js",
+      "image-downloader": "/Users/marvin/Documents/Git/egg-template/node_modules/egg/config/config.default.js",
+      "mongoose": "/Users/marvin/Documents/Git/egg-template/node_modules/egg/config/config.default.js",
+      "stream-wormhole": "/Users/marvin/Documents/Git/egg-template/node_modules/egg/config/config.default.js"
+    },
+    "devDependencies": {
+      "@types/mocha": "/Users/marvin/Documents/Git/egg-template/node_modules/egg/config/config.default.js",
+      "@types/node": "/Users/marvin/Documents/Git/egg-template/node_modules/egg/config/config.default.js",
+      "@types/supertest": "/Users/marvin/Documents/Git/egg-template/node_modules/egg/config/config.default.js",
+      "autod": "/Users/marvin/Documents/Git/egg-template/node_modules/egg/config/config.default.js",
+      "autod-egg": "/Users/marvin/Documents/Git/egg-template/node_modules/egg/config/config.default.js",
+      "egg-ci": "/Users/marvin/Documents/Git/egg-template/node_modules/egg/config/config.default.js",
+      "egg-bin": "/Users/marvin/Documents/Git/egg-template/node_modules/egg/config/config.default.js",
+      "egg-mock": "/Users/marvin/Documents/Git/egg-template/node_modules/egg/config/config.default.js",
+      "tslib": "/Users/marvin/Documents/Git/egg-template/node_modules/egg/config/config.default.js",
+      "eslint": "/Users/marvin/Documents/Git/egg-template/node_modules/egg/config/config.default.js",
+      "eslint-config-egg": "/Users/marvin/Documents/Git/egg-template/node_modules/egg/config/config.default.js",
+      "typescript": "/Users/marvin/Documents/Git/egg-template/node_modules/egg/config/config.default.js"
+    },
+    "engines": {
+      "node": "/Users/marvin/Documents/Git/egg-template/node_modules/egg/config/config.default.js"
+    },
+    "ci": {
+      "version": "/Users/marvin/Documents/Git/egg-template/node_modules/egg/config/config.default.js"
+    },
+    "repository": {
+      "type": "/Users/marvin/Documents/Git/egg-template/node_modules/egg/config/config.default.js",
+      "url": "/Users/marvin/Documents/Git/egg-template/node_modules/egg/config/config.default.js"
+    },
+    "eslintIgnore": "/Users/marvin/Documents/Git/egg-template/node_modules/egg/config/config.default.js",
+    "author": "/Users/marvin/Documents/Git/egg-template/node_modules/egg/config/config.default.js",
+    "license": "/Users/marvin/Documents/Git/egg-template/node_modules/egg/config/config.default.js"
+  },
+  "baseDir": "/Users/marvin/Documents/Git/egg-template/node_modules/egg/config/config.default.js",
+  "HOME": "/Users/marvin/Documents/Git/egg-template/node_modules/egg/config/config.default.js",
+  "rundir": "/Users/marvin/Documents/Git/egg-template/node_modules/egg/config/config.default.js",
+  "dump": {
+    "ignore": "/Users/marvin/Documents/Git/egg-template/node_modules/egg/config/config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "/Users/marvin/Documents/Git/egg-template/node_modules/egg/config/config.default.js",
+    "notFound": "/Users/marvin/Documents/Git/egg-template/node_modules/egg/config/config.default.js",
+    "sitefile": "/Users/marvin/Documents/Git/egg-template/node_modules/egg/config/config.default.js",
+    "middlewares": "/Users/marvin/Documents/Git/egg-template/node_modules/egg/config/config.default.js",
+    "httpClient": "/Users/marvin/Documents/Git/egg-template/node_modules/egg/config/config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "/Users/marvin/Documents/Git/egg-template/node_modules/egg/config/config.default.js"
+  },
+  "siteFile": {
+    "/favicon.ico": "/Users/marvin/Documents/Git/egg-template/node_modules/egg/config/config.default.js"
+  },
+  "bodyParser": {
+    "enable": "/Users/marvin/Documents/Git/egg-template/node_modules/egg/config/config.default.js",
+    "encoding": "/Users/marvin/Documents/Git/egg-template/node_modules/egg/config/config.default.js",
+    "formLimit": "/Users/marvin/Documents/Git/egg-template/node_modules/egg/config/config.default.js",
+    "jsonLimit": "/Users/marvin/Documents/Git/egg-template/node_modules/egg/config/config.default.js",
+    "textLimit": "/Users/marvin/Documents/Git/egg-template/node_modules/egg/config/config.default.js",
+    "strict": "/Users/marvin/Documents/Git/egg-template/node_modules/egg/config/config.default.js",
+    "queryString": {
+      "arrayLimit": "/Users/marvin/Documents/Git/egg-template/node_modules/egg/config/config.default.js",
+      "depth": "/Users/marvin/Documents/Git/egg-template/node_modules/egg/config/config.default.js",
+      "parameterLimit": "/Users/marvin/Documents/Git/egg-template/node_modules/egg/config/config.default.js"
+    },
+    "onerror": "/Users/marvin/Documents/Git/egg-template/node_modules/egg/config/config.default.js"
+  },
+  "logger": {
+    "dir": "/Users/marvin/Documents/Git/egg-template/node_modules/egg/config/config.default.js",
+    "encoding": "/Users/marvin/Documents/Git/egg-template/node_modules/egg/config/config.default.js",
+    "env": "/Users/marvin/Documents/Git/egg-template/node_modules/egg/config/config.default.js",
+    "level": "/Users/marvin/Documents/Git/egg-template/node_modules/egg/config/config.default.js",
+    "consoleLevel": "/Users/marvin/Documents/Git/egg-template/node_modules/egg/config/config.default.js",
+    "disableConsoleAfterReady": "/Users/marvin/Documents/Git/egg-template/node_modules/egg/config/config.default.js",
+    "outputJSON": "/Users/marvin/Documents/Git/egg-template/node_modules/egg/config/config.default.js",
+    "buffer": "/Users/marvin/Documents/Git/egg-template/node_modules/egg/config/config.default.js",
+    "appLogName": "/Users/marvin/Documents/Git/egg-template/node_modules/egg/config/config.default.js",
+    "coreLogName": "/Users/marvin/Documents/Git/egg-template/node_modules/egg/config/config.default.js",
+    "agentLogName": "/Users/marvin/Documents/Git/egg-template/node_modules/egg/config/config.default.js",
+    "errorLogName": "/Users/marvin/Documents/Git/egg-template/node_modules/egg/config/config.default.js",
+    "coreLogger": {
+      "consoleLevel": "/Users/marvin/Documents/Git/egg-template/node_modules/egg/config/config.local.js"
+    },
+    "allowDebugAtProd": "/Users/marvin/Documents/Git/egg-template/node_modules/egg/config/config.default.js"
+  },
+  "httpclient": {
+    "enableDNSCache": "/Users/marvin/Documents/Git/egg-template/node_modules/egg/config/config.default.js",
+    "dnsCacheLookupInterval": "/Users/marvin/Documents/Git/egg-template/node_modules/egg/config/config.default.js",
+    "dnsCacheMaxLength": "/Users/marvin/Documents/Git/egg-template/node_modules/egg/config/config.default.js",
+    "request": {
+      "timeout": "/Users/marvin/Documents/Git/egg-template/node_modules/egg/config/config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "/Users/marvin/Documents/Git/egg-template/node_modules/egg/config/config.default.js",
+      "freeSocketTimeout": "/Users/marvin/Documents/Git/egg-template/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/marvin/Documents/Git/egg-template/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/marvin/Documents/Git/egg-template/node_modules/egg/config/config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "/Users/marvin/Documents/Git/egg-template/node_modules/egg/config/config.default.js",
+      "freeSocketTimeout": "/Users/marvin/Documents/Git/egg-template/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/marvin/Documents/Git/egg-template/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/marvin/Documents/Git/egg-template/node_modules/egg/config/config.default.js"
+    }
+  },
+  "meta": {
+    "enable": "/Users/marvin/Documents/Git/egg-template/node_modules/egg/config/config.default.js",
+    "logging": "/Users/marvin/Documents/Git/egg-template/node_modules/egg/config/config.default.js"
+  },
+  "coreMiddleware": "/Users/marvin/Documents/Git/egg-template/node_modules/egg/config/config.default.js",
+  "workerStartTimeout": "/Users/marvin/Documents/Git/egg-template/node_modules/egg/config/config.default.js",
+  "serverTimeout": "/Users/marvin/Documents/Git/egg-template/node_modules/egg/config/config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "/Users/marvin/Documents/Git/egg-template/node_modules/egg/config/config.default.js",
+      "port": "/Users/marvin/Documents/Git/egg-template/node_modules/egg/config/config.default.js",
+      "hostname": "/Users/marvin/Documents/Git/egg-template/node_modules/egg/config/config.default.js"
+    }
+  },
+  "clusterClient": {
+    "maxWaitTime": "/Users/marvin/Documents/Git/egg-template/node_modules/egg/config/config.default.js",
+    "responseTimeout": "/Users/marvin/Documents/Git/egg-template/node_modules/egg/config/config.default.js"
+  },
+  "onClientError": "/Users/marvin/Documents/Git/egg-template/node_modules/egg/config/config.default.js"
+}
